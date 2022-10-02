@@ -1,0 +1,12 @@
+@import url(../vendor/normalize.css);
+@import url(../block/page/page.css);
+/* Блок header */
+@import url(../block/header/header.css);
+@import url(../block/header/__logo/header__logo.css);
+@import url(../block/header/__lang/header__lang-link.css);
+@import url(../block/header/__lang/header_lang.css);
+/*Блок lead*/
+@import url(../block/lead/lead.css);
+@import url(../block/lead/__title/lead__title.css);
+@import url(../block/lead/__subtitle/lead__subtitle.css);
+@import url(../block/lead/__image/lead__image.css);
