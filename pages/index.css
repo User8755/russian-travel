@@ -1,20 +1,24 @@
 @import url(../vendor/normalize.css); /* Нормалайз (всегда первый) */
 @import url(../vendor/font/Inter_Web/inter.css); /* Шрифты */
-@import url(../block/page/page.css); /* Основные настройки всей стариници */
+@import url(../block/page/page.css); /* Основные настройки всей страници */
 /* Блок header */
 @import url(../block/header/header.css);
 @import url(../block/header/__logo/header__logo.css);
 @import url(../block/header/__lang/header__lang-link.css);
 @import url(../block/header/__lang/header_lang.css);
-/*Блок lead*/
+/* Блок lead */
 @import url(../block/lead/lead.css);
 @import url(../block/lead/__title/lead__title.css);
 @import url(../block/lead/__subtitle/lead__subtitle.css);
 @import url(../block/lead/__image/lead__image.css);
 @import url(../block/lead/__caption/lead__caption.css);
-/* Блок intro*/
+/* Блок intro */
 @import url(../block/intro/intro.css);
 @import url(../block/intro/__title/intro__title.css);
 @import url(../block/intro/__text/intro__text.css);
 @import url(../block/intro/__list/intro__list.css);
 @import url(../block/intro/__list/intro__list-span.css);
+/* Блок photo */
+@import url(../block/photo/photo.css);
+@import url(../block/photo/__grid/photo__grid.css);
+@import url(../block/photo/__item/photo__item.css);
