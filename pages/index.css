@@ -1,6 +1,6 @@
-@import url(../vendor/normalize.css); /* нормалайз (всегда первый) */
+@import url(../vendor/normalize.css); /* Нормалайз (всегда первый) */
 @import url(../vendor/font/Inter_Web/inter.css); /* Шрифты */
-@import url(../block/page/page.css); 
+@import url(../block/page/page.css); /* Основные настройки всей стариници */
 /* Блок header */
 @import url(../block/header/header.css);
 @import url(../block/header/__logo/header__logo.css);
@@ -11,3 +11,4 @@
 @import url(../block/lead/__title/lead__title.css);
 @import url(../block/lead/__subtitle/lead__subtitle.css);
 @import url(../block/lead/__image/lead__image.css);
+@import url(../block/lead/__caption/lead__caption.css);
