@@ -6,3 +6,7 @@
   color: #ffffff;
   margin: 12px 0 48px 0;
 }
+
+.card__link:hover{
+  opacity: 0.5;
+}
