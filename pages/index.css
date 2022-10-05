@@ -26,10 +26,11 @@
 @import url(../block/palce/place.css);
 /* Карточки вложеные в блок place */
 @import url(../block/card/card.css);
-@import url(../block/card/__columns/card__column-right.css);
 @import url(../block/card/__title/card__title.css);
+@import url(../block/card/__web/card__web.css);
+@import url(../block/card/__web/_url/card__web_url-heading.css);
+@import url(../block/card/__web/__link/card__web_link.css);
 @import url(../block/card/__image/card__image.css);
-@import url(../block/card/__columns/card__columns-left.css);
-@import url(../block/card/__url/card__url-heading.css);
-@import url(../block/card/__link/card__link.css);
 @import url(../block/card/__pharagraph/card__pharagraph.css);
+
+
