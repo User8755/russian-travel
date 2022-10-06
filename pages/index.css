@@ -28,9 +28,20 @@
 @import url(../block/card/card.css);
 @import url(../block/card/__title/card__title.css);
 @import url(../block/card/__web/card__web.css);
-@import url(../block/card/__web/_url/card__web_url-heading.css);
-@import url(../block/card/__web/__link/card__web_link.css);
+@import url(../block/card/__web/card__web-url-heading.css);
+@import url(../block/card/__web/card__web-link.css);
 @import url(../block/card/__image/card__image.css);
 @import url(../block/card/__pharagraph/card__pharagraph.css);
+/* Блок cover */
+@import url(../block/cover/cover.css);
+@import url(../block/cover/__link/cover__link.css);
+@import url(../block/cover/__background/cover__bacground.css);
+@import url(../block/cover/__title/cover__title.css);
+@import url(../block/cover/__subtitle/cover__subtitle.css);
+/* Блок footer */
+@import url(../block/footer/footer.css);
+@import url(../block/footer/__links/footer__links.css);
+@import url(../block/footer/__copyright/footer__copyright.css);
+@import url(../block/footer/__link/foote__link.css);
 
 

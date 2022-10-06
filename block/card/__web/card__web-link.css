@@ -1,4 +1,4 @@
-.card__web_link{
+.card__web-link{
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -8,6 +8,6 @@
   padding: 0 0 48px 0;
 }
 
-.card__link:hover{
+.card__web-link:hover{
   opacity: 0.5;
 }
