@@ -3,6 +3,15 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 163%;
-  width: 690px;
+  max-width: 690px;
   margin: 40px 0 33px 0;
+}
+
+@media screen and (max-width: 767px)  {
+  .intro__text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 163%;
+  }
 }
