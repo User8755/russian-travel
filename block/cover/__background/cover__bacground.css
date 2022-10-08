@@ -1,19 +1,15 @@
 .cover__background{
-  background-image: url(/image/__background.jpg);
+  margin: 0 3.75%;
   width: 1184px;
-  height: 740px;
-  margin: auto;
 }
 
 .cover__background:hover{
   opacity: .3;
   }
 
-  @media screen and (max-width: 1280px){
+  @media screen and (max-width: 1279px){
     .cover__background{
-      max-width: 100%;
-      min-height: 200px;
-      background-size: contain;
-      background-repeat: no-repeat;
+      margin: 0;
+      width: 100%;
     }
   }
