@@ -1,0 +1,33 @@
+.cover__link {
+  text-decoration: none;
+  color: #ffffff;
+  background-image: url(../../../images/background.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  margin: 0 3.75% 0;
+  height: 740px;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__link {
+    max-width: 100%;
+    height: 640px;
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__link {
+    max-width: 100%;
+    height: 480px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__link {
+    max-width: 100%;
+    height: 200px;
+  }
+}

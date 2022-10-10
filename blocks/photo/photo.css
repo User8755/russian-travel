@@ -1,0 +1,16 @@
+.photo {
+  margin: 92px 3.75% 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .photo {
+    margin: 88px 0 0;
+  }
+}
+
+@media screen and (max-width: 352px) {
+  .photo {
+    margin: 64px 0 0;
+  }
+}

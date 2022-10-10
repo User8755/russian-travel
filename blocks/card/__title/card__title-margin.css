@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px) {
+  .card__title-margin {
+    margin-top: 46px; /*Костыль из-за несоотвествия переноса текста с макетом */
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .card__title-margin {
+    margin-top: 0;
+  }
+}

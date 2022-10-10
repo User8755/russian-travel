@@ -1,0 +1,37 @@
+.footer__link {
+  text-decoration: none;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  margin-right: 18px;
+}
+
+.footer__link:first-child {
+  margin-top: 0;
+}
+
+.footer__link:last-child {
+  margin-bottom: 0;
+}
+
+.footer__link:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__link {
+    margin: 32px 0 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__link {
+    margin: 0 16px 32px 16px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+  }
+}

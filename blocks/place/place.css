@@ -1,0 +1,21 @@
+.place {
+  margin: 92px 11.56% 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .place {
+    margin: 92px 4.69% 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place {
+    margin: 88px 3.11% 0;
+  }
+}
+
+@media screen and (max-width: 352px) {
+  .place {
+    margin: 64px 0 0;
+  }
+}
