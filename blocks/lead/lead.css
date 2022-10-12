@@ -9,13 +9,13 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 930px) {
   .lead {
     margin-top: 56px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 605px) {
   .lead {
     margin-top: 48px;
   }

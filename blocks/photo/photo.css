@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 930px) {
   .photo {
     margin: 88px 0 0;
   }

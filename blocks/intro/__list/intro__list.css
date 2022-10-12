@@ -8,7 +8,7 @@
   margin: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 605px) {
   .intro__list {
 margin-left: 8px;
   }

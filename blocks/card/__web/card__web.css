@@ -5,7 +5,7 @@
   justify-content: flex-end;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 605px) {
   .card__web {
     margin: 0 16px;
   }

@@ -16,14 +16,14 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 930px) {
   .card {
     column-gap:  28px;
     margin: 0 auto 73px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 605px) {
   .card {
     gap: 32px 0;
     grid-template-columns: minmax(min-content, max-content);

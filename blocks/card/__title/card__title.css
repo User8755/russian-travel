@@ -13,7 +13,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 930px) {
   .card__title {
     font-style: normal;
     font-weight: 900;
@@ -22,7 +22,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 605px) {
   .card__title {
     margin: 0 16px;
     font-style: normal;

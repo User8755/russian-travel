@@ -1,4 +1,4 @@
-.card__web_url-heading {
+.card__url-heading {
   margin: 0 0 0 0;
   font-style: normal;
   font-weight: 400;
@@ -9,8 +9,8 @@
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 768px) {
-  .card__web_url-heading {
+@media screen and (max-width: 930px) {
+  .card__url-heading {
     font-style: normal;
     font-weight: 400;
     font-size: 12px;

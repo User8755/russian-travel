@@ -11,14 +11,21 @@
   }
 }
 
-@media screen and (max-width: 768px)  {
+@media screen and (max-width: 930px)  {
   .card__image {
     width: 340px;
   }
 }
 
-@media screen and (max-width: 352px)  {
+@media screen and (max-width: 605px)  {
   .card__image {
     width: 100%;
+    margin-left: 16px;
+  }
+}
+
+@media screen and (max-width: 492px)  {
+  .card__image {
+    margin-left: 0;
   }
 }
