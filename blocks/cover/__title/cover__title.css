@@ -6,6 +6,7 @@
   margin: 20.7% auto 0;
   max-width: 560px;
   text-align: center;
+  z-index: 2;
 }
 
 @media screen and (max-width: 1024px) {
