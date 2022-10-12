@@ -1,21 +1,24 @@
 .intro {
+  margin-top: 92px;
   margin-left: 11.57%;
 }
 
 @media screen and (max-width: 1024px) {
   .intro {
-    margin:0 4.69% 0;
+    margin: 92px 4.69% 0;
   }
 }
 
 @media screen and (max-width: 930px) {
   .intro {
+    margin-top: 88px;
     margin: 0 3.13% 0;
   }
 }
 
 @media screen and (max-width: 605px) {
   .intro {
+    margin-top: 64px;
     margin-left: 0 5% 0;
   }
 }
