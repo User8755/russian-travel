@@ -13,8 +13,6 @@
 
 @media screen and (max-width: 930px) {
   .card__paragraph {
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 163%;
     padding-bottom: 25px;
@@ -23,6 +21,7 @@
 
 @media screen and (max-width: 605px) {
   .card__paragraph {
-    margin: 0 16px 0;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 }

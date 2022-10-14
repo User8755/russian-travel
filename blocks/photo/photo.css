@@ -5,12 +5,14 @@
 
 @media screen and (max-width: 930px) {
   .photo {
-    margin: 88px 0 0;
+    margin-top: 88px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
 @media screen and (max-width: 352px) {
   .photo {
-    margin: 64px 0 0;
+    margin-top: 64px;
   }
 }

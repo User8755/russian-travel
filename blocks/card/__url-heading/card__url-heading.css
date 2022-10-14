@@ -1,5 +1,5 @@
 .card__url-heading {
-  margin: 0 0 0 0;
+  margin: 0;
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -7,14 +7,4 @@
   letter-spacing: 2px;
   color: #aaa;
   text-transform: uppercase;
-}
-
-@media screen and (max-width: 930px) {
-  .card__url-heading {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 12px;
-    letter-spacing: 2px;
-  }
 }
