@@ -1,11 +1,12 @@
 @import url(../vendor/normalize.css); /* Нормалайз (всегда первый) */
 @import url(../vendor/font/Inter_Web/inter.css); /* Шрифты */
+@import url(../blocks/body/body.css); /* Задает фон страници, исправляет косяк при растяжении контента при ширине выше 1280px */
 @import url(../blocks/page/page.css); /* Основные настройки всей страници */
 /* Блок header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/header__lang-link_active.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 @import url(../blocks/header/__lang/header__lang.css);
 /* Блок lead */
 @import url(../blocks/lead/lead.css);
@@ -37,7 +38,6 @@
 /* Блок cover */
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
-@import url(../blocks/cover/__background/cover__bacground.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
